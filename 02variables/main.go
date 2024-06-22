@@ -1,8 +1,8 @@
 package main
+import ("fmt")
 
-import (
-	"fmt"
-)
+
+const LoginToken string = "nsdjnsadjksnakn"  // public variable the first letter should be capital 
 
 func main() {
 
